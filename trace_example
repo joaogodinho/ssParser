@@ -1,0 +1,17 @@
+TRACE START [2007-05-06 14:37:06]
+    0.0003     114112   -> {main}() ../trace.php:0
+    0.0004     114272     -> str_split() ../trace.php:8
+    0.0153     117424     -> ret_ord() ../trace.php:10
+    0.0165     117584       -> ord() ../trace.php:5
+    0.0166     117584     -> ret_ord() ../trace.php:10
+    0.0167     117584       -> ord() ../trace.php:5
+    0.0168     117584     -> ret_ord() ../trace.php:10
+    0.0168     117584       -> ord() ../trace.php:5
+    0.0170     117584     -> ret_ord() ../trace.php:10
+    0.0170     117584       -> ord() ../trace.php:5
+    0.0172     117584     -> ret_ord() ../trace.php:10
+    0.0172     117584       -> ord() ../trace.php:5
+    0.0173     117584     -> ret_ord() ../trace.php:10
+    0.0174     117584       -> ord() ../trace.php:5
+    0.0177      41152
+TRACE END   [2007-05-06 14:37:07]
